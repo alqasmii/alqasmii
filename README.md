@@ -86,11 +86,14 @@ I build fast, test often, and share openly.
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://x.com/Adnan_Al_Qasmi">
+  <a href="https://x.com/Adnan_Al_Qasmi" target="_blank">
     <img src="https://img.icons8.com/ios-filled/30/000000/twitter.png"/> @Adnan_Al_Qasmi
   </a> • 
-  <a href="https://github.com/alqasmii">
+  <a href="https://github.com/alqasmii" target="_blank">
     <img src="https://img.icons8.com/ios-filled/30/000000/github.png"/> GitHub
+  </a> • 
+  <a href="https://www.linkedin.com/in/adnan-al-qasmi/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/> LinkedIn
   </a>
 </p>
 
